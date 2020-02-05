@@ -6,7 +6,7 @@ Download
 Several ways to download the `ZOO-Project <http://zoo-project.org>`_ source code are available and explained in this section.
 
 .. warning::
-    The ZOO-Project svn is the place where developement
+    The ZOO-Project svn is the place where development
     happens. Checking out svn is the best way to be always up-to-date.
 
 
